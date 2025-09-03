@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\829ss\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\data-strucure-lab\\HelloWorld\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{163575B8-7814-4BA5-AD62-0BF08BCE9C73}|HelloWorld\\HelloWorld.vcxproj|C:\\Users\\829ss\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\data-strucure-lab\\HelloWorld\\HelloWorld\\HelloWorld.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{163575B8-7814-4BA5-AD62-0BF08BCE9C73}|HelloWorld\\HelloWorld.vcxproj|solutionrelative:HelloWorld\\HelloWorld.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HelloWorld.cpp",
+              "DocumentMoniker": "C:\\Users\\829ss\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\data-strucure-lab\\HelloWorld\\HelloWorld\\HelloWorld.cpp",
+              "RelativeDocumentMoniker": "HelloWorld\\HelloWorld.cpp",
+              "ToolTip": "C:\\Users\\829ss\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\data-strucure-lab\\HelloWorld\\HelloWorld\\HelloWorld.cpp",
+              "RelativeToolTip": "HelloWorld\\HelloWorld.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-09-03T02:15:58.06Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
